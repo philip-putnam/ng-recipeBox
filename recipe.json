@@ -1,0 +1,16 @@
+{
+  "recipes": [{
+    "title": "Garlic Bread",
+    "ingredients": "bread, garlic, butter",
+    "directions": "smear butter and garlic to paste, put on bread, toast"
+  }, {
+    "title": "PBJ",
+    "ingredients": "bread, etc",
+    "directions": "do the things"
+  }, {
+    "title": "Bouillebaise",
+    "ingredients": "fish",
+    "directions": "boil it in a pot"
+  }]
+
+}
